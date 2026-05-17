@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**yuki-ai-code/yuki-ai-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yuki | AI Automation Developer
 
-Here are some ideas to get you started:
+Building practical AI automation workflows using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- n8n
+- OpenAI API
+- Gmail API
+- Google Sheets
+- Discord / Slack integrations
+
+## Projects
+
+- Gmail AI Automation
+- AI Discord Notification Bot
+- AI News Summary Bot
+
+## Focus
+
+Helping small businesses automate daily tasks such as:
+
+- Email summaries
+- Notifications
+- Information organization
+- Workflow automation
