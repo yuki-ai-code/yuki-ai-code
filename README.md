@@ -1,26 +1,7 @@
-## Hi there 👋
+AI Inquiry Classification Workflow
 
-# Yuki | AI Automation Developer
+AI Inquiry Classification Workflow
 
-Building practical AI automation workflows using:
-
-- n8n
-- OpenAI API
-- Gmail API
-- Google Sheets
-- Discord / Slack integrations
-
-## Projects
-
-- Gmail AI Automation
-- AI Discord Notification Bot
-- AI News Summary Bot
-
-## Focus
-
-Helping small businesses automate daily tasks such as:
-
-- Email summaries
-- Notifications
-- Information organization
-- Workflow automation
+Google Forms・OpenAI API・Slackを連携し、
+問い合わせ内容をAIが自動分類。
+緊急度判定とSlack通知を自動化。
