@@ -5,7 +5,8 @@ Google Forms・OpenAI API・Slackを連携し、
 問い合わせ内容をAIが自動分類。
 緊急度判定とSlack通知を自動化。
 
-<img width="1299" height="660" alt="slack  Workflow" src="https://github.com/user-attachments/assets/4101635d-824c-4371-868b-8cec233887b8" />
+<img width="1299" height="613" alt="slack  Workflow" src="https://github.com/user-attachments/assets/9258be6d-c83f-4286-a7ce-3db523437a01" />
+
 
 AI Classification Output
 <img width="515" height="398" alt="slack out put" src="https://github.com/user-attachments/assets/14724f8b-7178-40d6-aff7-4b270b90c49d" />
